@@ -1,0 +1,4 @@
+SUBSYSTEM1: Making of Seismic Table for prevoius earthquakes and providing input to other subsystems
+
+In main.php we are having faults as input and output is the Seismic HTML Table of the prevoius 200 years earthquakes that are there in the database.
+There is a fault array which can be changed accordingly if we want some other set of faults (for some other specific city)
